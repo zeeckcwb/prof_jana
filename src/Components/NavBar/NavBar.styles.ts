@@ -18,7 +18,6 @@ const useStyles = makeStyles(() => ({
     color: "#2C2C2C!important",
     fontSize: 24,
     transition: "300ms",
-    fontFamily: "Roboto",
     textDecoration: "underline",
     textDecorationColor: "transparent!important",
     "&:hover": {
