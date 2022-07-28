@@ -3,8 +3,8 @@ import { makeStyles } from "@mui/styles";
 const useStyles = makeStyles(() => ({
   menuListContainer: {
     height: 120,
-    width: "100%",
     display: "flex",
+    padding: "0 80px",
     alignItems: "center",
     justifyContent: "space-between",
   },
